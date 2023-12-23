@@ -20,3 +20,6 @@ This is a student registration system in which it is possible to add a new stude
 - `git clone https://github.com/JackKerouac1613/crm-app.git`
 - `npm install`
 - `npm start`
+
+## Link to application
+- https://jackkerouac1613.github.io/Crm-app
