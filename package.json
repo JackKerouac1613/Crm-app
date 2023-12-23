@@ -2,7 +2,7 @@
   "name": "crm-students",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https: //JackKerouac1613.github.io/Crm-app",
+  "homepage": "https://JackKerouac1613.github.io/Crm-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
