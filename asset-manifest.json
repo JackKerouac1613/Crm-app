@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%20//JackKerouac1613.github.io/Crm-app/static/css/main.0f2a82c5.css",
+    "main.js": "/%20//JackKerouac1613.github.io/Crm-app/static/js/main.0df2118d.js",
+    "static/media/logo.svg": "/%20//JackKerouac1613.github.io/Crm-app/static/media/logo.6b62497084aeb408431dbf43daaebadc.svg",
+    "index.html": "/%20//JackKerouac1613.github.io/Crm-app/index.html",
+    "main.0f2a82c5.css.map": "/%20//JackKerouac1613.github.io/Crm-app/static/css/main.0f2a82c5.css.map",
+    "main.0df2118d.js.map": "/%20//JackKerouac1613.github.io/Crm-app/static/js/main.0df2118d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f2a82c5.css",
+    "static/js/main.0df2118d.js"
+  ]
+}
